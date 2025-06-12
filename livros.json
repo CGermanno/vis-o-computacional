@@ -1,0 +1,32 @@
+[
+    {
+        "id_livro": 1,
+        "titulo": "A novela da globe",
+        "autor": "Germanovisk",
+        "ano_publicacao": 2000,
+        "genero": "Man",
+        "isbn": "5",
+        "quantidade_total": 33,
+        "quantidade_disponivel": 32
+    },
+    {
+        "id_livro": 2,
+        "titulo": "A caça dos lobos",
+        "autor": "Vascarov",
+        "ano_publicacao": 2005,
+        "genero": "Aventura",
+        "isbn": "0002",
+        "quantidade_total": 61,
+        "quantidade_disponivel": 60
+    },
+    {
+        "id_livro": 3,
+        "titulo": "livro boob",
+        "autor": "bob III",
+        "ano_publicacao": 2025,
+        "genero": "masc",
+        "isbn": "que isso?",
+        "quantidade_total": 23,
+        "quantidade_disponivel": 23
+    }
+]

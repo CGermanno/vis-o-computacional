@@ -1,0 +1,38 @@
+[
+    {
+        "id_emprestimo": 1,
+        "livro_titulo": "A novela da globe",
+        "usuario_nome": "Sam",
+        "data_emprestimo": "2025-01-01",
+        "data_devolucao_prevista": "2026-01-01",
+        "data_devolucao_real": null,
+        "status": "Ativo"
+    },
+    {
+        "id_emprestimo": 2,
+        "livro_titulo": "A novela da globe",
+        "usuario_nome": "Sam",
+        "data_emprestimo": "2000-01-01",
+        "data_devolucao_prevista": "2025-06-03",
+        "data_devolucao_real": "Sam",
+        "status": "Devolvido"
+    },
+    {
+        "id_emprestimo": 3,
+        "livro_titulo": "A caça dos lobos",
+        "usuario_nome": "Sam",
+        "data_emprestimo": "2023-01-01",
+        "data_devolucao_prevista": "2025-01-01",
+        "data_devolucao_real": null,
+        "status": "Ativo"
+    },
+    {
+        "id_emprestimo": 4,
+        "livro_titulo": "A caça dos lobos",
+        "usuario_nome": "Sam",
+        "data_emprestimo": "2023-01-01",
+        "data_devolucao_prevista": "2025-01-01",
+        "data_devolucao_real": "Sam",
+        "status": "Devolvido"
+    }
+]

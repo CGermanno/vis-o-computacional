@@ -1,0 +1,26 @@
+[
+    {
+        "id_usuario": 1,
+        "nome": "Admin",
+        "sobrenome": "User",
+        "cpf": null,
+        "endereco": null,
+        "telefone": null,
+        "email": null,
+        "matricula_biblioteca": null,
+        "username_sistema": "admin",
+        "senha_sistema": "admin123"
+    },
+    {
+        "id_usuario": 2,
+        "nome": "Sam",
+        "sobrenome": "M",
+        "cpf": "0101",
+        "endereco": "Casa ",
+        "telefone": "169999",
+        "email": "sa@gmail.edu",
+        "matricula_biblioteca": "1111",
+        "username_sistema": "sam",
+        "senha_sistema": "sam"
+    }
+]
